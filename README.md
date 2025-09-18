@@ -6,6 +6,4 @@
 
 Мобильное приложение для управления задачами с красивым интерфейсом и локальным сохранением данных. Разработано на React Native с использованием Expo.
 
-<p align="center">
-  <img src="https://via.placeholder.com/300x600/007AFF/white?text=Task+Manager" alt="Демо" width="200"/>
-</p>
+
